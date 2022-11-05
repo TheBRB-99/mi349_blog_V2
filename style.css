@@ -9,5 +9,8 @@ body {
 img {
     max-width:500px;
     height: auto;
+}
 
+::-moz-list-bullet{
+    margin-bottom: 1px;
 }
