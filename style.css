@@ -18,6 +18,7 @@ li{
 }
 
 .post{
-    border-radius: 2px solid rgb(72,30,123);
+    border-bottom: 1px;
+    border-style: inset;
 }
 
