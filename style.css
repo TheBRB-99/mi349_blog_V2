@@ -31,5 +31,5 @@ li{
 
 aside{
     color: grey;
-    border-top: 1px;
+    border-top: 1px dotted grey;
 }
