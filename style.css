@@ -26,4 +26,5 @@ li{
     align-items: center;
     font-size: large;
     text-align: center;
+    line-break: normal;
 }
