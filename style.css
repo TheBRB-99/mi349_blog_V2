@@ -19,6 +19,6 @@ li{
 
 .post{
     border-bottom: 1px;
-    border-style: inset;
+    border-style:groove;
 }
 
