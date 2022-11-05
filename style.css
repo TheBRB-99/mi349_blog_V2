@@ -25,4 +25,5 @@ li{
 .game-table{
     align-items: center;
     font-size: large;
+    table-layout: auto;
 }
