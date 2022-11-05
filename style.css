@@ -43,3 +43,12 @@ h2{
     color: rgb(72, 30, 123);
     font-weight: bold;
 }
+
+title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    border-bottom: 3px solid black;
+    color: rgb(72, 30, 123);
+    
+}
