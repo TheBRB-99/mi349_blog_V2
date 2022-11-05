@@ -20,5 +20,6 @@ li{
 .post{
     border-bottom: 1px;
     border-style:groove;
+    padding:20px;
 }
 
