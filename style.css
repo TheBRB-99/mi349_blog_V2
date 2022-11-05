@@ -41,7 +41,7 @@ form{
 
 h2{
     color: rgb(72, 30, 123);
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 header{
@@ -51,4 +51,8 @@ header{
     border-bottom: 3px solid black;
     color: rgb(72, 30, 123);
     
+}
+h3{
+    color: rgb(72, 30, 123);
+font-weight: bold;
 }
