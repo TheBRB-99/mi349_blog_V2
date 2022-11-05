@@ -22,4 +22,7 @@ li{
     border-style:groove;
     padding:20px;
 }
-
+.game-table{
+    border-radius: 1px;
+    font-size: large;
+}
