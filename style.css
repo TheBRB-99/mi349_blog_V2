@@ -28,3 +28,8 @@ li{
     text-align: center;
     line-break: normal;
 }
+
+aside{
+    color: grey;
+    border-top: 1px;
+}
