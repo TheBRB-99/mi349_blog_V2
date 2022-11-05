@@ -3,4 +3,11 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin:50px;
     padding:30px;
+    
+}
+
+img {
+    max-width: fit-content;
+    height: auto;
+
 }
