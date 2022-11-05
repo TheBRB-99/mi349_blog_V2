@@ -1,5 +1,6 @@
 body {
     background-color: rgb(222, 255, 245);
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin:50px;
+    padding:30px;
 }
