@@ -23,6 +23,6 @@ li{
     padding:20px;
 }
 .game-table{
-    border-radius: 1px;
+    align-items: baseline;
     font-size: large;
 }
