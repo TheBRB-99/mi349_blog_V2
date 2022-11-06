@@ -26,6 +26,7 @@ li{
     font-size: large;
     text-align: center;
     line-break: normal;
+    padding-inline: 3px;
 }
 
 aside{
