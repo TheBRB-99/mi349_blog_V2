@@ -62,3 +62,14 @@ h4{
     color: rgb(72, 30, 123);
 
 }
+.contact-section{
+    display: flex;
+}
+.contact-form{
+    flex-direction: column;
+}
+
+img{
+    float:right;
+    padding-left: 20px;
+}
