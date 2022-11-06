@@ -80,7 +80,7 @@ img{
     padding-left: 20px;
 }
 
-nav{
+.nav{
     background-color: rgb(72, 30, 123);
     color: rgb(222, 255, 245);
     position: sticky;
