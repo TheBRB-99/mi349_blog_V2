@@ -12,7 +12,7 @@ img {
 }
 
 li{
-    
+    color:grey;
     font-weight:bolder;
     padding: 5px;
 }
@@ -85,4 +85,5 @@ img{
     color: rgb(222, 255, 245);
     position: sticky;
     top:20px;
+    
 }
