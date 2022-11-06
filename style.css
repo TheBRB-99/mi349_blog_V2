@@ -70,10 +70,8 @@ h4{
     align-items: center;
     
 }
-
-input{
-    position: right;
-    margin-right: 50px;
+div{
+    padding: 30px;
 }
 img{
     float:right;
