@@ -67,6 +67,7 @@ h4{
 }
 .contact-form{
     flex-direction: column;
+    align-items: center;
 }
 
 img{
