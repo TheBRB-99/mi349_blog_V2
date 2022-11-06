@@ -78,6 +78,7 @@ div{
 img{
     float:right;
     padding-left: 20px;
+    caption-side: bottom;
 }
 
 .nav{
